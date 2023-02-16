@@ -9,7 +9,6 @@
 
 
 ## reference
-    - (A practical guide to BitBake)[https://a4z.gitlab.io/docs/BitBake/guide.html#_the_smallest_possible_project]
-    - [A practical guide to BitBake](https://a4z.gitlab.io/docs/BitBake/guide.html#_the_smallest_possible_project)
-    - [A practical guide to BitBakeo code](https://bitbucket.org/a4z/bitbakeguide/src/master/)
+    [A practical guide to BitBake](https://a4z.gitlab.io/docs/BitBake/guide.html#_the_smallest_possible_project)
+    [A practical guide to BitBakeo code](https://bitbucket.org/a4z/bitbakeguide/src/master/)
 
